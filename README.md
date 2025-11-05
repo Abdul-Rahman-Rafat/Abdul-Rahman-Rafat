@@ -1,14 +1,16 @@
+
+<div>
+<img width="100%" 
+     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=100&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+</div>
+<div>
 <h1 align="center">Abdul-Rahman Rafat</h1>
-
-###
-
 <h3 align="center">Full Stack Developer</h3>
+</div>
+
+<br><br><br>
 
 ###
-
-
-###
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
@@ -30,6 +32,7 @@
 </div>
 
 ###
+<br><br>
 
 <div align="center">
 <a href="[https://www.facebook.com/fares.galal.733](https://www.facebook.com/abdelrahmanrafat477)" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
@@ -40,10 +43,19 @@
 
 ###
 
+<br><br>
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Rahman-Rafat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Rahman-Rafat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+<br><br><br>
+
+
+
+<div>
+<img width="100%" 
+     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=100&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
