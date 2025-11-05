@@ -3,12 +3,15 @@
 <img width="100%" 
      src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=100&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
+<hr> </hr>
+
 <div>
 <h1 align="center">Abdul-Rahman Rafat</h1>
 <h3 align="center">Full Stack Developer</h3>
 </div>
 
 <br><br><br>
+<hr> </hr>
 
 ###
 <div align="center">
@@ -30,9 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
+<hr> </hr>
 
 ###
-<br><br>
 
 <div align="center">
 <a href="[https://www.facebook.com/fares.galal.733](https://www.facebook.com/abdelrahmanrafat477)" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
@@ -40,6 +43,7 @@
 <a href="www.linkedin.com/in/abdul-rahman-rafat-b571a4361" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/Abdul-Rahman-Rafat/images/refs/heads/main/gmail.svg" alt="gmail" height="40px" width="40px" style="max-width: 100%; height: auto; max-height: 30px;">
   </a>
 </div>
+<hr> </hr>
 
 ###
 
@@ -53,6 +57,7 @@
 </div>
 <br><br><br>
 
+<hr> </hr>
 
 
 <div>
