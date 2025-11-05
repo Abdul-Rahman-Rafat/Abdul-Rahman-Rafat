@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Abdulrahman Rafat</h1>
-<h3 align="center">💻 Full-Stack Web Python Developer | Django & React Enthusiast</h3>
+<h3 align="center">💻 Full-Stack  Developer</h3>
 
 ---
 
