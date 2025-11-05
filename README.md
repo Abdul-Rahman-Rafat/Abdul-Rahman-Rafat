@@ -6,9 +6,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
 
 ###
 
@@ -35,29 +32,18 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/abdul-rahman-rafat-b571a4361" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/abdelrahmanrafat477" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="25" alt="facebook logo"  />
-  </a>
-  <a  href="mailto:abdorafat489@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="25" alt="gmail logo"  />
+<a href="[https://www.facebook.com/fares.galal.733](https://www.facebook.com/abdelrahmanrafat477)" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
+<a href="www.linkedin.com/in/abdul-rahman-rafat-b571a4361" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" height="30" width="40" style="max-width: 100%; height: 30px; max-height: 40px;"></a>
+<a href="www.linkedin.com/in/abdul-rahman-rafat-b571a4361" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/Abdul-Rahman-Rafat/images/refs/heads/main/gmail.svg" alt="gmail" height="40px" width="40px" style="max-width: 100%; height: auto; max-height: 30px;">
   </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdul-Rahman-Rafat/Abdul-Rahman-Rafat/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdul-Rahman-Rafat/Abdul-Rahman-Rafat/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Abdul-Rahman-Rafat/Abdul-Rahman-Rafat/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdul-Rahman-Rafat&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Rahman-Rafat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Rahman-Rafat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
