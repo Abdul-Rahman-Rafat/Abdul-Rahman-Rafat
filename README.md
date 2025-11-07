@@ -1,23 +1,19 @@
 
-<div>
 <img width="100%" 
      src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=100&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
-</div>
-<hr> </hr>
 
-<div>
 <h1 align="center">Abdul-Rahman Rafat</h1>
 <h3 align="center">Full Stack Developer</h3>
-</div>
 
 <br><br><br>
-<hr> </hr>
+
+<h2 align="center">Skills</h2>
 
 ###
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -33,10 +29,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
-<hr> </hr>
 
 ###
 
+<h2 align="center"> Contacts </h2> 
 <div align="center">
 <a href="[https://www.facebook.com/fares.galal.733](https://www.facebook.com/abdelrahmanrafat477)" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 <a href="www.linkedin.com/in/abdul-rahman-rafat-b571a4361" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked in" height="30" width="40" style="max-width: 100%; height: 30px; max-height: 40px;"></a>
