@@ -4,8 +4,13 @@
 
 <h1 align="center">Abdul-Rahman Rafat</h1>
 <h3 align="center">Full Stack Developer</h3>
+<p>I am a passionate Full-Stack Developer with a strong focus on Python, particularly using the 
+Django framework, and JavaScript, leveraging React to create dynamic user interfaces. My 
+experience includes building scalable web applications and REST APIs during my internship 
+at the Information Technology Institute. I thrive on optimizing application performance and 
+delivering high-quality code</p>
 
-<br><br><br>
+<br>
 
 <h2 align="center">Skills</h2>
 
