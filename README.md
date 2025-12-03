@@ -36,7 +36,7 @@
 <div align="center">
 <a href="https://www.facebook.com/abdelrahmanrafat477" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/facebook/facebook-original.svg" alt="facebook" height="30" width="40" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 <a href="www.linkedin.com/in/abdul-rahman-rafat-b571a4361" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/linkedin/linkedin-original.svg" alt="linked in" height="30" width="40" style="max-width: 100%; height: 30px; max-height: 40px;"></a>
-<a href="www.linkedin.com/in/abdul-rahman-rafat-b571a4361" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/Abdul-Rahman-Rafat/images/refs/heads/main/gmail.svg" alt="gmail" height="40px" width="40px" style="max-width: 100%; height: auto; max-height: 30px;">
+<a href="https://www.linkedin.com/in/abdul-rahman-rafat-b571a4361" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/Abdul-Rahman-Rafat/images/refs/heads/main/gmail.svg" alt="gmail" height="40px" width="40px" style="max-width: 100%; height: auto; max-height: 30px;">
   </a>
 </div>
 <hr> </hr>
