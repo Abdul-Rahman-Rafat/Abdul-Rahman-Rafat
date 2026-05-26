@@ -3,12 +3,11 @@
      src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=100&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 
 <h1 align="center">Abdul-Rahman Rafat</h1>
-<h3 align="center">Full Stack Developer</h3>
-<p>I am a passionate Full-Stack Developer with a strong focus on Python, particularly using the 
-Django framework, and JavaScript, leveraging React to create dynamic user interfaces. My 
-experience includes building scalable web applications and REST APIs during my internship 
-at the Information Technology Institute. I thrive on optimizing application performance and 
-delivering high-quality code</p>
+<h3 align="center">Frontend Developer</h3>
+<p>I'm a Frontend Developer with hands-on experience building responsive web applications using React, JavaScript, Redux Toolkit, and Tailwind CSS.
+Focused on creating scalable UI components, integrating REST APIs, and delivering clean user experiences through maintainable, well-structured code.
+Completed 160+ hours of intensive full-stack development training covering React, JavaScript, APIs, Git, and modern web development practices.
+</p>
 
 <br>
 
