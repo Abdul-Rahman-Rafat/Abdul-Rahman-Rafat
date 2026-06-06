@@ -37,11 +37,12 @@
 
 | # | Project | Stack | Link |
 |---|---------|-------|------|
-| 01 | Tavola Restaurant | React, Redux, Tailwind | [Live](https://tavola-restaurant.vercel.app/) |
-| 02 | WindsMeet Travel | HTML, CSS, JS, Bootstrap | [Live](https://windsmeet.vercel.app/) |
-| 03 | Grino eCommerce | HTML, Pure CSS, JS | [Live](https://grino-e-commerce.vercel.app/) |
-| 04 | E-Commerce Platform | HTML, CSS, JS | [Live](https://firstecommerce-tau.vercel.app/) |
-| 05 | LearnHub | Django, Python | [GitHub](https://github.com/Abdul-Rahman-Rafat/Learn-Hub-Django-.git) |
+| 01 | Nutra eCommerce | React, Context API + useReducer, react router | [Live](https://tavola-restaurant.vercel.app/) |
+| 02 | Tavola Restaurant | React, Redux, Tailwind | [Live](https://tavola-restaurant.vercel.app/) |
+| 03 | WindsMeet Travel | HTML, CSS, JS, Bootstrap | [Live](https://windsmeet.vercel.app/) |
+| 04 | Grino eCommerce | HTML, Pure CSS, JS | [Live](https://grino-e-commerce.vercel.app/) |
+| 05 | E-Commerce Platform | HTML, CSS, JS | [Live](https://firstecommerce-tau.vercel.app/) |
+| 06 | LearnHub | Django, Python | [GitHub](https://github.com/Abdul-Rahman-Rafat/Learn-Hub-Django-.git) |
 
 ---
 
