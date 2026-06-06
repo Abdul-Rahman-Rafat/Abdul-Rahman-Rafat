@@ -14,7 +14,24 @@
 
 </div>
 
+
 ---
+ 
+## Skills
+ 
+<div align="center">
+**Frontend**
+ 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,vite&theme=dark" />
+**Backend & Database**
+ 
+<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql&theme=dark" />
+**Tools**
+ 
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+</div>
+---
+
 
 ## Projects Showcased
 
