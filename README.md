@@ -16,26 +16,40 @@
 
 
 ---
- 
-## Skills
- 
+ ## Skills
+
 <div align="center">
- 
-**Frontend**
- 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,redux,vite&theme=dark" />
 
-**Backend & Database**
- 
-<img src="https://skillicons.dev/icons?i=python,django,postgres,mysql&theme=dark" />
+### Frontend
 
-**Tools**
- 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="48" alt="Redux Toolkit" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="48" alt="Axios" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" alt="Vite" />
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" alt="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" /> </div>
+</p>
+
 </div>
 
 ---
-
 
 ## Projects Showcased
 
