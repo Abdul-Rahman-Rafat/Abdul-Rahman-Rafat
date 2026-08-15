@@ -53,16 +53,18 @@
 
 ## Projects Showcased
 
-| # | Project | Stack | Link |
-|---|---------|-------|------|
-| 01 | Nutra eCommerce | React, Context API + useReducer, react router | [Live](https://nutra-ten.vercel.app/) |
-| 02 | Tavola Restaurant | React, Redux, Tailwind | [Live](https://tavola-restaurant.vercel.app/) |
-| 03 | WindsMeet Travel | HTML, CSS, JS, Bootstrap | [Live](https://windsmeet.vercel.app/) |
-| 04 | Grino eCommerce | HTML, Pure CSS, JS, localStorage | [Live](https://grino-e-commerce.vercel.app/) |
-| 05 | E-Commerce Platform | HTML, CSS, JS, localStorage | [Live](https://firstecommerce-tau.vercel.app/) |
-| 06 | LearnHub | HTML, CSS, JS, Django, Python | [GitHub](https://github.com/Abdul-Rahman-Rafat/Learn-Hub-Django-.git) |
-| 07 | Tillino POS | C#, WPF, .NET, Entity Framework Core, SQLite | [GitHub](https://github.com/Abdul-Rahman-Rafat/Tillino.git) |
-| 08 | SafeCity | Flask, Python, SQLite, YOLO, OpenCV, JavaScript, Chart.js, Leaflet  | [GitHub](https://github.com/Abdul-Rahman-Rafat/safe-city.git) |
+| # | Project | Stack | Live | Github |
+|---|---------|-------|------|------|
+| 01 | Xo eCom | NextJs, Prisma, React Hook Form, Zod, Stripe | [Live](https://github.com/Abdul-Rahman-Rafat/XO-eCom.git) | [GitHub](https://github.com/Abdul-Rahman-Rafat/XO-eCom.git) |
+| 02 | Nutra eCommerce | React, Context API + useReducer, react router | [Live](https://nutra-ten.vercel.app/) | [GitHub](https://nutra-ten.vercel.app/) |
+| 03 | Tavola Restaurant | React, Redux, Tailwind | [Live](https://tavola-restaurant.vercel.app/) | [GitHub](https://github.com/Abdul-Rahman-Rafat/TavolaRestaurant.git) |
+| 04 | WindsMeet Travel | HTML, CSS, JS, Bootstrap | [Live](https://windsmeet.vercel.app/) | [GitHub](https://github.com/Abdul-Rahman-Rafat/WindsMeet.git) |
+| 05 | Bundle Builder | React & Context API, Tailwind CSS | [Live](https://bundle-builder-beige-five.vercel.app/) | [GitHub](https://github.com/Abdul-Rahman-Rafat/Bundle-Builder.git) |
+| 06 | Grino eCommerce | HTML, Pure CSS, JS, localStorage | [Live](https://grino-e-commerce.vercel.app/) | [GitHub](https://github.com/Abdul-Rahman-Rafat/Grino-eCommerce.git) |
+| 07 | E-Commerce Platform | HTML, CSS, JS, localStorage | [Live](https://firstecommerce-tau.vercel.app/) | [GitHub](https://github.com/Abdul-Rahman-Rafat/E-commerce.git) |
+| 08 | LearnHub | HTML, CSS, JS, Django, Python | [GitHub](https://github.com/Abdul-Rahman-Rafat/Learn-Hub-Django-.git) | [GitHub](https://github.com/Abdul-Rahman-Rafat/Learn-Hub-Django-.git) |
+| 09 | Tillino POS | C#, WPF, .NET, Entity Framework Core, SQLite | [GitHub](https://github.com/Abdul-Rahman-Rafat/Tillino.git) | [GitHub](https://github.com/Abdul-Rahman-Rafat/Tillino.git) |
+| 10 | SafeCity | Flask, Python, SQLite, YOLO, OpenCV, JavaScript, Chart.js, Leaflet  | [GitHub](https://github.com/Abdul-Rahman-Rafat/safe-city.git) | [GitHub](https://github.com/Abdul-Rahman-Rafat/safe-city.git) |
 
 ---
 
